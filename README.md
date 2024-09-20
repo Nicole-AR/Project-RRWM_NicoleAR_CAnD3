@@ -12,3 +12,8 @@ There are five documents in this repository:
 -	Project CODE_Nicole_CAnD3_RRWM.r
 -	output_crosstable1_code_NicoleAR.csv
 -	output_regression_code_NicoleaAR.csv
+
+DATASET:
+
+Statistics Canada. 2019. Census of Population, 2016 [Canada] Public Use Microdata File (PUMF): Individuals File. Statistics Canada [producer and distributor], accessed September 10, 2021. ID: pumf-98M0001-E-2016-individuals.
+
